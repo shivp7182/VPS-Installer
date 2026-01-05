@@ -1,3 +1,5 @@
 # VPS-Installer
 One Click Install VPS
-bash <(curl https://raw.githubusercontent.com/Angelillo15/MinecraftPurpleTheme/main/install.sh)
+```
+bash <(curl -fsSL https://raw.githubusercontent.com/shivp7182/VPS-Installer/main/VPS%20installer.sh)
+```
